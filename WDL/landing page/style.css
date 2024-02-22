@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+h1{
+    color: aqua;
+}
+h2{
+    /* color:crimson; */
+}
+nav{
+    background-color:crimson;
+    height: 100px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    align-items:center ;
+}
+#nav-text{
+    display:flex;
+    /* justify-content: ; */
+    justify-content: end;
+    
+}
+
+
+
